@@ -4,9 +4,9 @@
 
 ### Java Full-Stack Developer
 
-<p>
-  用 `Spring Boot`、`Vue 3`、`TypeScript` 做能落地、能维护、能持续迭代的业务系统。
-</p>
+
+用 `Spring Boot`、`Vue 3`、`TypeScript` 做能落地、能维护、能持续迭代的业务系统。
+
 
 <p>
   <a href="https://github.com/Honmannnnn">
