@@ -1,15 +1,25 @@
 <div align="center">
 
-# Hi there, I'm Honman
+# Honman
 
-### 一名正在持续进化的 Java 全栈开发者
+### Java Full-Stack Developer
+
+<p>
+  用 `Spring Boot`、`Vue 3`、`TypeScript` 做能落地、能维护、能持续迭代的业务系统。
+</p>
 
 <p>
   <a href="https://github.com/Honmannnnn">
-    <img src="https://komarev.com/ghpvc/?username=Honmannnnn&label=Profile%20Views&color=0f766e&style=flat" alt="profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Honmannnnn&label=Profile%20Views&color=0f766e&style=flat-square" alt="profile views" />
   </a>
   <a href="https://github.com/Honmannnnn?tab=followers">
-    <img src="https://img.shields.io/github/followers/Honmannnnn?label=Followers&style=flat&color=2563eb" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Honmannnnn?label=Followers&style=flat-square&color=2563eb" alt="followers" />
+  </a>
+  <a href="https://github.com/Honmannnnn?tab=repositories">
+    <img src="https://img.shields.io/badge/Focus-Business%20Systems-16a34a?style=flat-square" alt="focus" />
+  </a>
+  <a href="https://github.com/Honmannnnn/Notes">
+    <img src="https://img.shields.io/badge/Notes-Learning%20Log-f59e0b?style=flat-square" alt="notes" />
   </a>
 </p>
 
@@ -17,15 +27,15 @@
 
 ## 关于我
 
-- 我是 `Chan_Honman`
-- 目前主要在学习和实践 `Java`、`Spring Boot`、`Vue 3`、`TypeScript`
-- 最近更关注业务系统开发、前后端联调、移动端适配和工程化体验
+- 我是 `Chan_Honman`，目前主要在学习和实践 `Java`、`Spring Boot`、`Vue 3`、`TypeScript`
+- 我更喜欢做真正服务业务的项目，而不是只停留在“能跑起来”的 Demo
+- 最近持续关注前后端联调、移动端适配、工程化体验和系统可维护性
 
-## 近期在做
+## 现在专注
 
 - 持续迭代一个 `Spring Boot + Vue 3 + MySQL + Redis` 的系统项目
-- 把“能跑起来”的项目继续打磨成“更稳定、更好维护”的项目
-- 沉淀开发笔记，把踩过的坑慢慢变成自己的经验库
+- 把功能开发继续往稳定性、可读性和可维护性推进
+- 沉淀开发笔记，把踩过的坑慢慢整理成自己的经验库
 
 ## 技术栈
 
@@ -38,27 +48,27 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
-
-## 仓库展示
-
-| 项目 | 简介 | 技术 |
-| --- | --- | --- |
-| [Notepad-app](https://github.com/Honmannnnn/Notepad-app) | 一个简单的 Android 记事本练手项目，用来积累移动端开发经验。 | `Java` `Android` |
-| [Notes](https://github.com/Honmannnnn/Notes) | 个人学习笔记仓库，用来记录过程、整理知识和保存想法。 | `Markdown` |
 
 ## GitHub 数据
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Honmannnnn&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honmannnnn&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <a href="https://github.com/Honmannnnn">
+    <img src="https://komarev.com/ghpvc/?username=Honmannnnn&label=Profile%20Views&color=0f766e&style=flat-square" alt="profile views" />
+  </a>
+  <a href="https://github.com/Honmannnnn?tab=followers">
+    <img src="https://img.shields.io/github/followers/Honmannnnn?label=Followers&style=flat-square&color=2563eb" alt="followers" />
+  </a>
+  <a href="https://github.com/Honmannnnn?tab=repositories">
+    <img src="https://img.shields.io/badge/Open%20to-Collaboration-0ea5e9?style=flat-square" alt="collaboration" />
+  </a>
+  <a href="https://github.com/Honmannnnn/Notes">
+    <img src="https://img.shields.io/badge/Recent%20Focus-Java%20%26%20Vue%203-22c55e?style=flat-square" alt="recent focus" />
+  </a>
 </p>
 
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Honmannnnn&theme=github-compact&hide_border=true" alt="activity graph" />
-</p>
+> 之前那两个统计卡片来自第三方图床服务，GitHub 上偶尔会加载失败，所以我这里改成了更稳定的徽章式展示。
 
 ## 想说的话
 
